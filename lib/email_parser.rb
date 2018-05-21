@@ -5,6 +5,7 @@
 
 class EmailPaser
   
-  def initialize
-  
+  def initialize(emails)
+    @email = emails
+  end
 end
