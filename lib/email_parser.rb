@@ -5,4 +5,6 @@
 
 class EmailPaser
   
+  def initialize
+  
 end
